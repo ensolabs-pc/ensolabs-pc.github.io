@@ -1,2 +1,2 @@
-# EnsoLabs.github.io
+# Enso Labs
 Servicio de Reparacion de Computadoras en Tijuana
